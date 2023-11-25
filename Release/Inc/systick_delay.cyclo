@@ -1,0 +1,2 @@
+../Inc/systick_delay.c:10:6:delay_ms	3
+../Inc/systick_delay.c:25:6:delay_us	3

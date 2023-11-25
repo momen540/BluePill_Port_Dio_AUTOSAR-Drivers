@@ -1,0 +1,7 @@
+../Inc/MCAL/PORT/Port.c:226:13:PORT_OUT_SPEED_SETTER	10
+../Inc/MCAL/PORT/Port.c:294:13:PORT_OUT_MOOD_SETTER	19
+../Inc/MCAL/PORT/Port.c:23:6:Port_Init	6
+../Inc/MCAL/PORT/Port.c:66:6:Port_SetPinDirection	7
+../Inc/MCAL/PORT/Port.c:112:6:Port_RefreshPortDirection	7
+../Inc/MCAL/PORT/Port.c:158:6:Port_GetVersionInfo	2
+../Inc/MCAL/PORT/Port.c:184:6:Port_SetPinMode	6

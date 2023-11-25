@@ -1,0 +1,9 @@
+../Inc/MCAL/DIO/Dio.c:20:15:Dio_ReadChannel	8	static
+../Inc/MCAL/DIO/Dio.c:48:6:Dio_WriteChannel	8	static
+../Inc/MCAL/DIO/Dio.c:75:19:Dio_ReadPort	8	static
+../Inc/MCAL/DIO/Dio.c:103:6:Dio_WritePort	0	static
+../Inc/MCAL/DIO/Dio.c:130:19:Dio_ReadChannelGroup	0	static
+../Inc/MCAL/DIO/Dio.c:138:6:Dio_WriteChannelGroup	0	static
+../Inc/MCAL/DIO/Dio.c:146:6:Dio_GetVersionInfo	0	static
+../Inc/MCAL/DIO/Dio.c:173:15:Dio_FlipChannel	8	static
+../Inc/MCAL/DIO/Dio.c:208:6:Dio_MaskedWritePort	0	static
