@@ -1,0 +1,2 @@
+../Src/MCAL/CRC/CRC.c:24:6:CRC_Init	4	static
+../Src/MCAL/CRC/CRC.c:38:8:CRC_Accumulate	24	static

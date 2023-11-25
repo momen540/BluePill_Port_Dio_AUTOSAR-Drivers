@@ -1,0 +1,10 @@
+../Src/CDD/UART/UART.c:48:16:UART_Init	10
+../Src/CDD/UART/UART.c:117:16:UART_Deinit	6
+../Src/CDD/UART/UART.c:147:16:UART_Read_Char	9
+../Src/CDD/UART/UART.c:178:16:UART_Write_Char	8
+../Src/CDD/UART/UART.c:211:16:UART_Transmit	5
+../Src/CDD/UART/UART.c:233:16:UART_Receive	5
+../Src/CDD/UART/UART.c:254:16:UART_Print_Message	1
+../Src/CDD/UART/UART.c:280:20:UART_set_baudrate	1
+../Src/CDD/UART/UART.c:287:20:UART_Enable	1
+../Src/CDD/UART/UART.c:294:20:UART_Disable	1

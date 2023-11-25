@@ -1,0 +1,10 @@
+../Src/CDD/UART/UART.c:48:16:UART_Init	24	static
+../Src/CDD/UART/UART.c:117:16:UART_Deinit	24	static
+../Src/CDD/UART/UART.c:147:16:UART_Read_Char	24	static
+../Src/CDD/UART/UART.c:178:16:UART_Write_Char	24	static
+../Src/CDD/UART/UART.c:211:16:UART_Transmit	32	static
+../Src/CDD/UART/UART.c:233:16:UART_Receive	32	static
+../Src/CDD/UART/UART.c:254:16:UART_Print_Message	132	static
+../Src/CDD/UART/UART.c:280:20:UART_set_baudrate	24	static
+../Src/CDD/UART/UART.c:287:20:UART_Enable	16	static
+../Src/CDD/UART/UART.c:294:20:UART_Disable	16	static

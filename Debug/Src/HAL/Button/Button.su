@@ -1,0 +1,4 @@
+../Src/HAL/Button/Button.c:41:16:Read_Button	24	static
+../Src/HAL/Button/Button.c:71:16:Read_Button_Debounced	40	static
+../Src/HAL/Button/Button.c:115:16:Read_Button_Debounced_Blocking	24	static
+../Src/HAL/Button/Button.c:137:37:ButtonPullState	24	static

@@ -1,0 +1,9 @@
+../Src/MCAL/DIO/Dio.c:37:15:Dio_ReadChannel	6
+../Src/MCAL/DIO/Dio.c:79:6:Dio_WriteChannel	7
+../Src/MCAL/DIO/Dio.c:123:19:Dio_ReadPort	6
+../Src/MCAL/DIO/Dio.c:162:6:Dio_WritePort	12
+../Src/MCAL/DIO/Dio.c:219:19:Dio_ReadChannelGroup	6
+../Src/MCAL/DIO/Dio.c:260:6:Dio_WriteChannelGroup	12
+../Src/MCAL/DIO/Dio.c:313:6:Dio_GetVersionInfo	2
+../Src/MCAL/DIO/Dio.c:355:15:Dio_FlipChannel	7
+../Src/MCAL/DIO/Dio.c:408:6:Dio_MaskedWritePort	12

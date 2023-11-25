@@ -1,0 +1,9 @@
+../Src/MCAL/RCC/RCC.c:98:16:System_ClockInit	24	static
+../Src/MCAL/RCC/RCC.c:139:16:System_ClockDeInit	16	static
+../Src/MCAL/RCC/RCC.c:184:30:AHB_SetPres	24	static
+../Src/MCAL/RCC/RCC.c:235:30:APB1_SetPres	24	static
+../Src/MCAL/RCC/RCC.c:271:30:APB2_SetPres	24	static
+../Src/MCAL/RCC/RCC.c:301:20:Set_Osc_HSI	4	static
+../Src/MCAL/RCC/RCC.c:310:20:Set_Osc_HSE	4	static
+../Src/MCAL/RCC/RCC.c:322:23:PLL_Init	24	static
+../Src/MCAL/RCC/RCC.c:379:23:Peripheral_CLK_Init	24	static

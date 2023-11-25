@@ -1,0 +1,9 @@
+../Src/CortexM3/CortexM3_Core_SysTick.c:19:16:SysTick_Init	4
+../Src/CortexM3/CortexM3_Core_SysTick.c:44:6:SystTick_Deinit	1
+../Src/CortexM3/CortexM3_Core_SysTick.c:55:6:SysTick_WaitBlocking	2
+../Src/CortexM3/CortexM3_Core_SysTick.c:71:16:Systick_SingleInterval	2
+../Src/CortexM3/CortexM3_Core_SysTick.c:95:16:Systick_PeriodicInterval	2
+../Src/CortexM3/CortexM3_Core_SysTick.c:119:8:SysTick_ReadTicks	1
+../Src/CortexM3/CortexM3_Core_SysTick.c:124:6:SysTick_delay_ms	4
+../Src/CortexM3/CortexM3_Core_SysTick.c:150:6:SysTick_delay_us	4
+../Src/CortexM3/CortexM3_Core_SysTick.c:179:6:SysTick_Handler	3
